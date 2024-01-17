@@ -1,5 +1,5 @@
-Let's democratize film financing together! Invest in the future of cinema with ReelReturns. 🚀🎥
 # ReelReturns: Decentralized Film Investment Platform
+Let's democratize film financing together! Invest in the future of cinema with ReelReturns. 🚀🎥
 
 Welcome to ReelReturns, where blockchain meets the big screen! 🎬 Our open-source DeFi platform allows investors to fund exciting film projects and enjoy returns upon release.
 
@@ -19,35 +19,34 @@ Welcome to ReelReturns, where blockchain meets the big screen! 🎬 Our open-sou
 1. **Clone Repository:**
    ```bash
    git clone https://github.com/ReelReturns/ReelReturns.git
-Install Dependencies:
 
-bash
-Copy code
-cd ReelReturns
-npm install
-Explore Codebase:
+2. **Install Dependencies:**
+   ```bash
+   cd ReelReturns
+   npm install
+3. **Explore Codebase:**
+   - Smart contracts: contracts/
+   - Frontend UI: src/
+   - Governance logic: governance/
+   - Contribute:
 
-Smart contracts: contracts/
-Frontend UI: src/
-Governance logic: governance/
-Contribute:
+## Join our community on Discord.
+   - Fork, branch, and submit pull requests for enhancements.
+   - Run Locally:
+     ```bash
+      npm start
+   - Read Documentation:
 
-Join our community on Discord.
-Fork, branch, and submit pull requests for enhancements.
-Run Locally:
+## Developer Guide
+   - User Manual
+   - Security
+   - 
+## Audited for vulnerabilities.
+   - Report security issues to security@reelreturns.com.
+     
+## Community & Support
+   - Join our Discord: discord.reelreturns.com
+   - For inquiries: support@reelreturns.com
 
-bash
-Copy code
-npm start
-Read Documentation:
-
-Developer Guide
-User Manual
-Security
-Audited for vulnerabilities.
-Report security issues to security@reelreturns.com.
-Community & Support
-Join our Discord: discord.reelreturns.com
-For inquiries: support@reelreturns.com
 License
-This project is licensed under the MIT License.
+- This project is licensed under the MIT License.
