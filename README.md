@@ -40,7 +40,7 @@ Welcome to ReelReturns, where blockchain meets the big screen! 🎬 Our open-sou
 ## Developer Guide
    - User Manual
    - Security
-   - 
+     
 ## Audited for vulnerabilities.
    - Report security issues to security@reelreturns.com.
      
